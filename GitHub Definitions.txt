@@ -24,12 +24,6 @@ GitHub:-
 -------
 A web-based platform that hosts Git repositories and provides tools for collaboration, project management, and code sharing.
 
-Configuring Git:-
----------------
-      1. git config --global user.name "My Name"
-      2. git config --global user.email. "someone@email.com"
-      3. git config --list
-
 Resolving Merge Conflicts:-
 -------------------------
 An event that takes place when Git is unable to automatically resolve differences in code between two commits
