@@ -35,5 +35,6 @@ Resolving Merge Conflicts:-
 An event that takes place when Git is unable to automatically resolve differences in code between two commits
 
 Fork:-
-----
-Fork is nothing but you create entire copy of a original source and this way code is distribute.
+-----
+A fork is a new repository that shares code and visibility settings with the original "upstream" repository.
+Fork is a rough copy.
