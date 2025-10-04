@@ -18,3 +18,7 @@ git diff main
 git checkout main
 git branch
 git pull origin main
+
+Resolving Merge Conflicts:-
+-------------------------
+An event that takes place when Git is unable to automatically resolve differences in code between two commits
