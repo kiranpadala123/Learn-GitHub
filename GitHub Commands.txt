@@ -1,42 +1,9 @@
-Version Control system address below two issues:-
-------------------------------------------------
-       1. Sharing
-       2. Versioning
-
-Version Control:-
----------------
-      1. CVS  → Centralised Version Control System
-      2. SVN → Centralised Version Control System
-      3. GIT → Distributed Version Control System
-
-Centralised vs Distributed:-
---------------------------
-      1. Every thing happen in central place (SVN) so it is called centralised version control. 
-      2. If SVN down, no way to communicate developers each other.
-      3. Distributed system, you can create multiple copies
-
-Git:-
-----
-A distributed version control system that tracks changes to files, allowing developers to collaborate on projects, revert to previous versions, and manage code effectively.
-Open source
-
-GitHub:-
--------
-A web-based platform that hosts Git repositories and provides tools for collaboration, project management, and code sharing.
-
 Configuring Git:-
 ---------------
       1. git config --global user.name "My Name"
       2. git config --global user.email. "someone@email.com"
       3. git config --list
 
-Resolving Merge Conflicts:-
--------------------------
-An event that takes place when Git is unable to automatically resolve differences in code between two commits
-
-Fork:-
-----
-Fork is nothing but you create entire copy of a original source and this way code is distribute.
 
 Commands:-
 --------
