@@ -24,6 +24,10 @@ GitHub:-
 -------
 A web-based platform that hosts Git repositories and provides tools for collaboration, project management, and code sharing.
 
+Pull Request:-
+------------
+It lets you tell others about changes you've pushed to a branch in a repository on GitHub.
+
 Resolving Merge Conflicts:-
 -------------------------
 An event that takes place when Git is unable to automatically resolve differences in code between two commits
