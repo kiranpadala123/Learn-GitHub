@@ -1,3 +1,30 @@
+Version Control system address below two issues:-
+------------------------------------------------
+       1. Sharing
+       2. Versioning
+
+Version Control:-
+---------------
+      1. CVS  → Centralised Version Control System
+      2. SVN → Centralised Version Control System
+      3. GIT → Distributed Version Control System
+
+Centralised vs Distributed:-
+--------------------------
+      1. Every thing happen in central place (SVN) so it is called centralised version control. 
+      2. If SVN down, no way to communicate developers each other.
+      3. Distributed system, you can create multiple copies
+
+Fork:-
+----
+Fork is nothing but you create entire copy of a original source and this way code is distribute.
+
+Resolving Merge Conflicts:-
+-------------------------
+An event that takes place when Git is unable to automatically resolve differences in code between two commits
+
+Commands:-
+--------
 git branch
 git checkout -b feature1
 git checkout main
@@ -18,7 +45,3 @@ git diff main
 git checkout main
 git branch
 git pull origin main
-
-Resolving Merge Conflicts:-
--------------------------
-An event that takes place when Git is unable to automatically resolve differences in code between two commits
