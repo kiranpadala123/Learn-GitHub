@@ -83,3 +83,8 @@ Undoing Changes:-
       Case 3: committed changes ( for many commits)
             git reset <- commit hash ->
             git reset --hard <-commit hash->
+
+Fork:-
+-----
+      A fork is a new repository that shares code and visibility settings with the original "upstream" repository.
+      Fork is a rough copy.
