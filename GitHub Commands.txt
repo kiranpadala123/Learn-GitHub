@@ -4,6 +4,26 @@ Configuring Git:-
       2. git config --global user.email. "someone@email.com"
       3. git config --list
 
+Work flow:-
+----------
+Local Git:
+---------
+      1. Github repo
+      2. clone
+      3. Changes
+      4. add
+      5. commit
+      6. push
+
+Add & Commit:-
+------------
+      1. add - adds new or changed files in your working direcotry to the Git staging area.
+      syntax : git add <- file name ->
+
+      2. commit - it is the record of change
+      syntax : git commit -m "some message"
+
+
 Merging code:-
 ------------
 Way-1:
