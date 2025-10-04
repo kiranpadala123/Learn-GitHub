@@ -4,6 +4,15 @@ Configuring Git:-
       2. git config --global user.email. "someone@email.com"
       3. git config --list
 
+Merging code:-
+------------
+Way-1:
+-----
+      1. git diff <- branch name ->        (to compare commits, branches, files & more)
+      2. git merge <- branch name ->       (to merge 2 branches)
+Way-2:
+-----
+      1. Create PR
 
 Commands:-
 --------
