@@ -68,3 +68,18 @@ Way-1:
 Way-2:
 -----
       1. Create PR
+
+Log command:-
+-----------
+      1. git log    (to view history of commits)
+
+Undoing Changes:-
+----------------
+      Case 1:  staged changes
+            git reset <- file name ->
+            git reset 
+      Case 2: commit changes (for one commit)
+            git reset HEAD~1
+      Case 3: committed changes ( for many commits)
+            git reset <- commit hash ->
+            git reset --hard <-commit hash->
